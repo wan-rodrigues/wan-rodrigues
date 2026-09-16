@@ -132,17 +132,13 @@ Olá! Me chamo Wanuelle, sou do Amazonas e estudante do 4º período de Engenhar
 
 <div style="text-align: center;" align="center">
 
+<div align="center">
+
 <h3>GitHub Stats</h3>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=wan-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"
-  alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=wan-rodrigues&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-rodrigues&theme=tokyonight&layout=compact&langs_count=9"
-  alt="Most Used Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-rodrigues&layout=compact&theme=tokyonight" alt="Most Used Languages">
 
 </div>
 
