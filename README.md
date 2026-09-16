@@ -130,20 +130,32 @@ Olá! Me chamo Wanuelle, sou do Amazonas e estudante do 4º período de Engenhar
 <br/>
 <br/>
 
-<div style="text-align: center;" align="center">
+<h3 align="left">GitHub Stats</h3>
 
-<div align="center">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=wan-rodrigues&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
 
-<h3>GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=wan-rodrigues&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-rodrigues&layout=compact&theme=tokyonight" alt="Most Used Languages">
-
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=wan-rodrigues&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wan-rodrigues/wan-rodrigues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wan-rodrigues/wan-rodrigues/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wan-rodrigues/wan-rodrigues/output/github-contribution-grid-snake.svg">
+  
+</picture>
 <br/>
 <br/>
 
