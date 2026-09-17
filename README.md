@@ -38,6 +38,14 @@ Olá! Me chamo Wanuelle, sou do Amazonas e estudante do 4º período de Engenhar
 />
 
 <img 
+  align="left" 
+  alt="Dart" 
+  title="Dart" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+
+<img 
  align="left" 
  alt="Flutter"
  title="Flutter" 
@@ -80,33 +88,6 @@ Olá! Me chamo Wanuelle, sou do Amazonas e estudante do 4º período de Engenhar
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Flask" 
- title="Flask"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="TensorFlow"
- title="TensorFlow" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="PyTorch"
- title="PyTorch" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
 />
 
 <img 
@@ -166,7 +147,7 @@ Olá! Me chamo Wanuelle, sou do Amazonas e estudante do 4º período de Engenhar
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=124559color:FFF)](mailto:wanuellegoncalves505@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=124559&color:FFF)](https://www.linkedin.com/in/wanuelle-goncalves/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=124559&color:FFF)](https://www.instagram.com/_wan.rodrigues/)
+
 
 <br/>
 <br/>
